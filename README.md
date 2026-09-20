@@ -1,6 +1,6 @@
 # 👨‍💻 @bryanmsh
 
-CS student at **UMass Amherst** building systems, machine learning from first principles, and structural simulation modeling.
+CS at **UMass Amherst** 
 
 🌐 [Portfolio & Projects](https://bhuang.dev) • 📧 [Email](mailto:bryanmsh@gmail.com) • 📍 Amherst, MA
 
