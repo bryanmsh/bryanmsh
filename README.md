@@ -8,11 +8,11 @@ CS at **UMass Amherst**
 
 ### 🚀 Featured Projects
 
-- [**hybrid-rag-engine**](https://github.com/bryanmsh/hybrid-rag-engine)  
-  Production-grade Retrieval-Augmented Generation system combining dense semantic vector search (ChromaDB/Qdrant) and sparse lexical retrieval (BM25) via Reciprocal Rank Fusion (RRF), Cross-Encoder reranking, and automated Ragas evaluation pipelines.
-
 - [**neural-net-from-scratch**](https://github.com/bryanmsh/neural-net-from-scratch)  
   Modular deep feedforward neural network (multilayer perceptron) and analytical backpropagation engine built from scratch in Python with pure NumPy (zero ML framework dependencies), achieving **~94.2% test accuracy** on MNIST.
+
+- [**hybrid-rag-engine**](https://github.com/bryanmsh/hybrid-rag-engine)  
+  Retrieval-Augmented Generation system combining dense semantic vector search (ChromaDB/Qdrant) and sparse lexical retrieval (BM25) via Reciprocal Rank Fusion (RRF), Cross-Encoder reranking, and automated Ragas evaluation pipelines.
 
 - [**bhuang.dev**](https://github.com/bryanmsh/bhuang.dev)  
   Personal portfolio website highlighting software development, structural bridge engineering case studies, and CAD simulations.
