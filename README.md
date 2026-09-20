@@ -11,9 +11,6 @@ CS at **UMass Amherst**
 - [**neural-net-from-scratch**](https://github.com/bryanmsh/neural-net-from-scratch)  
   Modular deep feedforward neural network (multilayer perceptron) and analytical backpropagation engine built from scratch in Python with pure NumPy (zero ML framework dependencies), achieving **~94.2% test accuracy** on MNIST.
 
-- [**blue-ocean**](https://github.com/bryanmsh/blue-ocean)  
-  Autonomous data pipeline that discovers underexploited, high-intent search queries and ranks them by estimated opportunity.
-
 - [**bhuang.dev**](https://github.com/bryanmsh/bhuang.dev)  
   Personal portfolio website highlighting software development, structural bridge engineering case studies, and CAD simulations.
 
