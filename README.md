@@ -12,7 +12,7 @@ CS at **UMass Amherst**
   Modular deep feedforward neural network (multilayer perceptron) and analytical backpropagation engine built from scratch in Python with pure NumPy (zero ML framework dependencies), achieving **~94.2% test accuracy** on MNIST.
 
 - [**CareLeap**](https://github.com/bryanmsh/CareLeap)  
-  Healthcare access platform built for Hackachusetts 2026 that audits round-trip transit access to clinics and plans visits around transportation and scheduling barriers. Built with a NumPy RAPTOR routing engine, schedule optimization validated against OR-Tools, FastAPI, and React.
+  Full-stack healthcare access platform built for Hackachusetts 2026, with an interactive React frontend for clinic transit-access audits and visit planning. Powered by a NumPy RAPTOR routing engine, schedule optimization validated against OR-Tools, and FastAPI. Deployed on Railway with a real PVTA data snapshot and synthetic patients. [Live demo](https://careleap-production.up.railway.app).
 
 - [**titanic-survival-classifier**](https://github.com/bryanmsh/titanic-survival-classifier)  
   End-to-end machine learning pipeline built with scikit-learn featuring custom transformers, preprocessing within stratified 5-fold cross-validation, and gradient boosting optimization. Achieved **~89.4% cross-validation ROC-AUC** and **~83.4% held-out ROC-AUC**, with permutation importance diagnostics.
