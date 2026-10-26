@@ -11,11 +11,11 @@ CS at **UMass Amherst**
 - [**neural-net-from-scratch**](https://github.com/bryanmsh/neural-net-from-scratch)  
   Modular deep feedforward neural network (multilayer perceptron) and analytical backpropagation engine built from scratch in Python with pure NumPy (zero ML framework dependencies), achieving **~94.2% test accuracy** on MNIST.
 
-- [**CareLeap**](https://github.com/bryanmsh/CareLeap)
-  Healthcare access platform built for Hackachusetts 2026 that audits round-trip transit access to clinics and plans visits around transportation and scheduling barriers. Built with a NumPy RAPTOR routing engine, OR-Tools schedule optimization, FastAPI, and React.
+- [**CareLeap**](https://github.com/bryanmsh/CareLeap)  
+  Healthcare access platform built for Hackachusetts 2026 that audits round-trip transit access to clinics and plans visits around transportation and scheduling barriers. Built with a NumPy RAPTOR routing engine, schedule optimization validated against OR-Tools, FastAPI, and React.
 
 - [**titanic-survival-classifier**](https://github.com/bryanmsh/titanic-survival-classifier)  
-  End-to-end, leak-free classical machine learning pipeline built with Scikit-Learn featuring custom transformers, stratified 5-fold cross-validation, and tree-based ensemble optimization achieving **~89.4% ROC-AUC** with permutation importance diagnostics.
+  End-to-end machine learning pipeline built with scikit-learn featuring custom transformers, preprocessing within stratified 5-fold cross-validation, and gradient boosting optimization. Achieved **~89.4% cross-validation ROC-AUC** and **~83.4% held-out ROC-AUC**, with permutation importance diagnostics.
 
 ---
 
@@ -27,13 +27,11 @@ CS at **UMass Amherst**
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
 [![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=autohotkey&logoColor=white)](https://autohotkey.com)
 
-**AI / Machine Learning & Systems**  
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+**Machine Learning & Applications**  
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech)
 
 **Developer Tools**  
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
