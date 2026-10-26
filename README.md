@@ -1,25 +1,40 @@
 # 👨‍💻 @bryanmsh
 
-CS at **UMass Amherst** 
+CS at **UMass Amherst**
 
 💼 [LinkedIn](https://linkedin.com/in/bmhuang) • 📧 [Email](mailto:bryanmsh@gmail.com) • 📍 Amherst, MA
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-- [**neural-net-from-scratch**](https://github.com/bryanmsh/neural-net-from-scratch)  
-  Modular deep feedforward neural network (multilayer perceptron) and analytical backpropagation engine built from scratch in Python with pure NumPy (zero ML framework dependencies), achieving **~94.2% test accuracy** on MNIST.
+### [neural-net-from-scratch](https://github.com/bryanmsh/neural-net-from-scratch)
 
-- [**CareLeap**](https://github.com/bryanmsh/CareLeap)  
-  Full-stack healthcare access platform built for Hackachusetts 2026, with an interactive React frontend for clinic transit-access audits and visit planning. Powered by a NumPy RAPTOR routing engine, schedule optimization validated against OR-Tools, and FastAPI. Deployed on Railway with a real PVTA data snapshot and synthetic patients. [Live demo](https://careleap-production.up.railway.app).
+A modular feedforward neural network and analytical backpropagation engine built from scratch with pure NumPy, without ML frameworks. Achieved **~94.2% test accuracy on MNIST**.
 
-- [**titanic-survival-classifier**](https://github.com/bryanmsh/titanic-survival-classifier)  
-  End-to-end machine learning pipeline built with scikit-learn featuring custom transformers, preprocessing within stratified 5-fold cross-validation, and gradient boosting optimization. Achieved **~89.4% cross-validation ROC-AUC** and **~83.4% held-out ROC-AUC**, with permutation importance diagnostics.
+**Built with:** Python, NumPy, Matplotlib
+
+### [CareLeap](https://github.com/bryanmsh/CareLeap)
+
+A full-stack healthcare access platform built for **Hackachusetts 2026**. Interactive clinic transit-access audits and visit planning help explore which appointment times patients can reach by bus, there and back.
+
+A NumPy RAPTOR routing engine powers the analysis, with schedule optimization validated against OR-Tools. Deployed on Railway using a real PVTA data snapshot and synthetic patients.
+
+**Built with:** Python, NumPy, FastAPI, React, TypeScript, MapLibre
+
+**[Open live demo](https://careleap-production.up.railway.app/)** | [Source code](https://github.com/bryanmsh/CareLeap)
+
+### [titanic-survival-classifier](https://github.com/bryanmsh/titanic-survival-classifier)
+
+An end-to-end machine learning pipeline with custom transformers, preprocessing within stratified 5-fold cross-validation, gradient boosting optimization, and permutation importance diagnostics.
+
+Achieved **~89.4% cross-validation ROC-AUC** and **~83.4% held-out ROC-AUC**.
+
+**Built with:** Python, scikit-learn, pandas, NumPy
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Languages**  
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
