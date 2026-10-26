@@ -22,7 +22,7 @@ A NumPy RAPTOR routing engine powers the analysis, with schedule optimization va
 
 **Built with:** Python, NumPy, FastAPI, React, TypeScript, MapLibre
 
-**[Open live demo](https://careleap-production.up.railway.app/)** | [Source code](https://github.com/bryanmsh/CareLeap)
+**[Open live demo](https://careleap-production.up.railway.app/)** 
 
 ### [titanic-survival-classifier](https://github.com/bryanmsh/titanic-survival-classifier)
 
