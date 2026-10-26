@@ -2,7 +2,7 @@
 
 CS at **UMass Amherst** 
 
-🌐 [Portfolio & Projects](https://bhuang.dev) • 💼 [LinkedIn](https://linkedin.com/in/bmhuang) • 📧 [Email](mailto:bryanmsh@gmail.com) • 📍 Amherst, MA
+💼 [LinkedIn](https://linkedin.com/in/bmhuang) • 📧 [Email](mailto:bryanmsh@gmail.com) • 📍 Amherst, MA
 
 ---
 
@@ -11,11 +11,11 @@ CS at **UMass Amherst**
 - [**neural-net-from-scratch**](https://github.com/bryanmsh/neural-net-from-scratch)  
   Modular deep feedforward neural network (multilayer perceptron) and analytical backpropagation engine built from scratch in Python with pure NumPy (zero ML framework dependencies), achieving **~94.2% test accuracy** on MNIST.
 
+- [**CareLeap**](https://github.com/bryanmsh/CareLeap)
+  Healthcare access platform built for Hackachusetts 2026 that audits round-trip transit access to clinics and plans visits around transportation and scheduling barriers. Built with a NumPy RAPTOR routing engine, OR-Tools schedule optimization, FastAPI, and React.
+
 - [**titanic-survival-classifier**](https://github.com/bryanmsh/titanic-survival-classifier)  
   End-to-end, leak-free classical machine learning pipeline built with Scikit-Learn featuring custom transformers, stratified 5-fold cross-validation, and tree-based ensemble optimization achieving **~89.4% ROC-AUC** with permutation importance diagnostics.
-
-- [**bhuang.dev**](https://github.com/bryanmsh/bhuang.dev)  
-  Personal portfolio website highlighting software development, structural bridge engineering case studies, and CAD simulations.
 
 ---
 
