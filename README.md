@@ -8,21 +8,33 @@ CS at **UMass Amherst**
 
 ## Featured Projects
 
+### [Miraai](https://github.com/bryanmsh/miraai)
+
+Adapts picture books for children with cortical visual impairment. Teachers review subjects extracted from the original artwork and approve each child's personalized pages.
+
+I co-trained a 7.8M-parameter PyTorch U-Net that reached **0.897 mean IoU** versus SAM 2.1's 0.906 at **about 5× the GPU speed**. In a cascade benchmark, it handled **67% of cut-outs** at **0.919 mean IoU agreement with SAM 2.1** on accepted masks. I also set up Docker and Caddy deployment on Vultr, auto-deploy, and branch protection.
+
+**Built with:** Python, PyTorch, FastAPI, React, TypeScript, Docker
+
+**[Watch the demo](https://www.youtube.com/watch?v=5-VnosZ5yUA)**
+
 ### [neural-net-from-scratch](https://github.com/bryanmsh/neural-net-from-scratch)
 
 A modular feedforward neural network and analytical backpropagation engine built from scratch with pure NumPy, without ML frameworks. Achieved **~94.2% test accuracy on MNIST**.
+
+At the same learning rate, SGD reached **90.95% average test accuracy** after five epochs versus **9.92%** for full-batch gradient descent.
 
 **Built with:** Python, NumPy, Matplotlib
 
 ### [CareLeap](https://github.com/bryanmsh/CareLeap)
 
-A full-stack healthcare access platform built for **Hackachusetts 2026**. Interactive clinic transit-access audits and visit planning help explore which appointment times patients can reach by bus, there and back.
+A Hackachusetts 2026 project that helps patients plan round-trip clinic visits and helps clinics assess whether changing appointment times improves transit access.
 
-A NumPy RAPTOR routing engine powers the analysis, with schedule optimization validated against OR-Tools. Deployed on Railway using a real PVTA data snapshot and synthetic patients.
+I extended RAPTOR routing across **PVTA and FRTA**, implemented Census-based **90% confidence intervals** for access estimates, and mapped **86 rural block groups** where an estimated **3,270 adults without cars** had modeled access only through assisted rides. I also integrated clinic and ride data through MCP and FastAPI, added Hypothesis tests, and ran the official GTFS validator.
 
-**Built with:** Python, NumPy, FastAPI, React, TypeScript, MapLibre
+**Built with:** Python, NumPy, FastAPI, React, TypeScript, MapLibre, MCP
 
-**[Open live demo](https://careleap-production.up.railway.app/)** 
+**[Live demo](https://careleap-production.up.railway.app/)** · **[API demo](https://careleap-production.up.railway.app/docs)**
 
 ### [titanic-survival-classifier](https://github.com/bryanmsh/titanic-survival-classifier)
 
